@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: David J. Hendry | HKUST # the website title (if blank, full name will be used instead)
+title: David J. Hendry # the website title (if blank, full name will be used instead)
 first_name: David
 middle_name: J.
 last_name: Hendry
@@ -191,7 +191,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/blog.md
 keep_files:
   - CNAME
   - .nojekyll
