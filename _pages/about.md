@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> "Vincent van Gogh's Starry</p>
-    <p> Night, except the village is</p>
-    <p> a cyberpunk version of Hong Kong"</p>
+    <p> Night, except the village</p>
+    <p> is cyberpunk Hong Kong",</p>
     <p> according to ChatGPT 5</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
