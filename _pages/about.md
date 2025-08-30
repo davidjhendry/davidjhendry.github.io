@@ -1,6 +1,6 @@
 ---
 layout: about
-title: blah
+title: 
 permalink: /
 subtitle: Associate Professor. <a href='https://sosc.hkust.edu.hk/'>Division of Social Science</a>. <a href='https://hkust.edu.hk/'>Hong Kong University of Science and Technology</a>.
 
